@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#181817" />
+  <rect x="24" y="24" width="1152" height="627" rx="16" fill="#201F1E" stroke="#D46238" stroke-opacity="0.4" stroke-width="2" />
+  <text x="72" y="92" fill="#D46238" font-family="monospace" font-size="22" font-weight="bold">❯ KEYNOTE SESSION // KUBECON + CLOUDNATIVECON</text>
+  <line x1="72" y1="120" x2="1128" y2="120" stroke="#3A231C" stroke-width="2" />
+  <text x="72" y="260" fill="#EDEDEC" font-family="monospace" font-size="44" font-weight="bold">Zero-Downtime Multi-Region</text>
+  <text x="72" y="325" fill="#EDEDEC" font-family="monospace" font-size="44" font-weight="bold">State Replication at Scale</text>
+  <text x="72" y="410" fill="#878683" font-family="monospace" font-size="24">Distributed Consensus • eBPF Observability • Automated Failover</text>
+  <rect x="72" y="510" width="280" height="54" rx="8" fill="#D46238" fill-opacity="0.15" stroke="#D46238" stroke-width="1.5" />
+  <text x="212" y="544" text-anchor="middle" fill="#D46238" font-family="monospace" font-size="20" font-weight="bold">SLIDES &amp; RECORDING</text>
+</svg>

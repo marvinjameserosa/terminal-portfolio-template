@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#181817" />
+  <rect x="24" y="24" width="1152" height="627" rx="16" fill="#201F1E" stroke="#D46238" stroke-opacity="0.4" stroke-width="2" />
+  <text x="72" y="92" fill="#34D399" font-family="monospace" font-size="22" font-weight="bold">● LIVE OPEN-SOURCE PROJECT // v2.4.0</text>
+  <line x1="72" y1="120" x2="1128" y2="120" stroke="#3A231C" stroke-width="2" />
+  <text x="72" y="255" fill="#EDEDEC" font-family="monospace" font-size="46" font-weight="bold">HyperTrace CLI &amp; Distributed</text>
+  <text x="72" y="320" fill="#EDEDEC" font-family="monospace" font-size="46" font-weight="bold">Latency Profiler</text>
+  <text x="72" y="405" fill="#878683" font-family="monospace" font-size="24">Rust • eBPF • WebAssembly • Next.js Telemetry UI</text>
+  <rect x="72" y="490" width="1056" height="90" rx="8" fill="#181817" stroke="#3A231C" stroke-width="1.5" />
+  <text x="100" y="544" fill="#D46238" font-family="monospace" font-size="22">$ hypertrace attach --pid 4821 --flamegraph --export-json</text>
+</svg>
